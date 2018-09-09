@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="de.gurkenlabs:litiengine:0.4.13" type="repository">
+    <properties maven-id="de.gurkenlabs:litiengine:0.4.13" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/gurkenlabs/litiengine/0.4.13/litiengine-0.4.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/jinput/jinput/2.0.9/jinput-2.0.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/jorbis/0.0.17.4/jorbis-0.0.17.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/tritonus-share/0.3.7.4/tritonus-share-0.3.7.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/vorbisspi/1.0.3.3/vorbisspi-1.0.3.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/jlayer/1.0.1.4/jlayer-1.0.1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/code-disaster/steamworks4j/steamworks4j/1.7.0/steamworks4j-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
